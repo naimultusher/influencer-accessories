@@ -154,3 +154,101 @@ nav {
     color: #18191F;
 }
 
+.collection-price {
+    font-weight: 400;
+    font-size: 24px;
+    color: #18191F;
+}
+
+.collection-info {
+    color: #FB8200;
+    font-size: 11px;
+}
+
+.rating-text {
+    color: #5E6366;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+.collection-details {
+    font-weight: 700;
+    font-size: 14px;
+    color: #787885;
+}
+
+.popular-btn {
+    background-color: transparent;
+    color: #E02C6D;
+    border: none;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: right;
+    margin-top: 50px;
+}
+
+.popular-btn-sec {
+    text-align: right;
+    margin-top: 50px;
+}
+
+/* Call to action styles */
+
+.call-to-action {
+    padding: 50px 200px;
+    display: flex;
+    justify-content: space-between;
+    gap: 120px;
+}
+
+.call-to-action-title {
+    font-weight: 700;
+    font-size: 38px;
+    color: #0A0826;
+}
+
+.call-to-action-des {
+    font-weight: 700;
+    font-size: 16px;
+    color: #6C6C6C;
+    margin-bottom: 16px;
+}
+
+.call-btn {
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+    border: none;
+    background-color: #E02C6D;
+    padding: 10px 24px;
+}
+
+/* Footer Styles */
+
+footer {
+    padding: 50px 589px;
+    background-color: #0A0826;
+    text-align: center;
+}
+
+.footer-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.copyright {
+    font-weight: 700;
+    font-size: 14px;
+    color: #D9DBE1;
+}
+
+.social-icons i {
+    color: #FFFFFF;
+    font-size: 17px;
+    margin: 10px;
+    background: #22203B;
+    padding: 10px;
+    border-radius: 100%;
+}
