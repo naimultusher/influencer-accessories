@@ -8,6 +8,14 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.section-title {
+    font-weight: 600;
+    font-size: 28px;
+    color: #3A3A3A;
+    margin-top: 100px;
+    text-align: center;
+}
+
 /* nav styles */
 
 nav {
@@ -99,3 +107,50 @@ nav {
     height: 414px;
     margin-top: 30px;
 }
+
+/* Brands Styles */
+
+.brands {
+    margin: 50px 200px;
+    padding: 50px 0;
+    align-items: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    justify-items: center;
+    border-top: 1px solid #AAAAAA;
+    border-bottom: 1px solid #AAAAAA;
+}
+
+/* Popular Collection Styles */
+
+.popular-collection {
+    padding: 50px 200px;
+}
+
+.collections {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+    justify-items: center;
+
+}
+
+.collection {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    padding: 15px;
+    width: 300px;
+    height: 427px;
+}
+
+.collection-title {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+    color: #18191F;
+}
+
